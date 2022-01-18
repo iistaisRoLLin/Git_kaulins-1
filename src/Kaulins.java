@@ -1,13 +1,15 @@
 import java.util.Random;
 
 public class Kaulins {
-	static void mestKaulinu() {
+	static void mestKaulinu(int reizes) {
 		Random rand = new Random();
-		int skaitlis = rand.nextInt(6)+1;
-		System.out.println("Uzkrita :"+skaitlis);
+		for(int i=1; i<=reizes; i++) {
+			int skaitlis = rand.nextInt(6)+1;
+			System.out.println("Uzkrita :"+skaitlis);
+		}
 	}
 	
 	public static void main(String[] args) {
-		mestKaulinu();
+		mestKaulinu(3);
 	}
 }
