@@ -8,5 +8,7 @@ Java projekts, kurš realizē metamā kauliņa mešanu.
 - [x] Izveidot GitHub kontu
 - [x] Izveidot GitHGub repo
 - [x] Lokālais projekts izvietots GitHub
-- [ ] Papildinātais GitHub krātuves saturs iegūts lokālai lietošanai
-...
+- [x] Papildinātais GitHub krātuves saturs iegūts lokālai lietošanai
+- [ ] Projektam pieslēdzies vēl viens programmētājs un izmēģināta kopdarbošanās (forking un clone)
+- [ ] Projektā izveidots jauns zars (branch)
+- [ ] Sapludināti zari un novērsts merge konflikts
